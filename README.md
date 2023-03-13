@@ -1,4 +1,4 @@
-# Unsupervised Representation Learning on Partially Observable Atari Games
+# Unsupervised Representation Learning in Partially Observable Atari Games
 
 This repo is based on the code from the benchmark and techniques introduced in the paper [Unsupervised State Representation Learning in Atari](https://arxiv.org/abs/1906.08226). Please visit https://github.com/mila-iqia/atari-representation-learning for detailed instructions on the benchmark.
 
